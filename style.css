@@ -33,7 +33,7 @@
  nav li a:hover {
     background-color:burlywood;
   }
-  ul {
+  nav li {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
