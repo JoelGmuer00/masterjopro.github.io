@@ -27,7 +27,7 @@ nav li a {
     z-index: 10;                 
     text-align: center; 
     height:50px;              
-    width: 500px;  
+    border-width: 500px;  
     cursor: pointer;  
     border: 2px outset;
     border-radius: 5px;
