@@ -11,7 +11,8 @@
     flex-wrap: wrap;
     justify-content: center;
     justify-content: space-between;     
-
+    list-style: none;
+    padding: 10px;
   }
 
 
@@ -23,7 +24,8 @@ li a {
       height:50px;              
       min-width: 240px;  
       cursor: pointer;  
-      border: 1px solid green              
+      border: 1px solid green
+      
     
 }
 
