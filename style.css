@@ -10,7 +10,7 @@
     background-color: burlywood;
   }
 
- nav ul {
+ ul.nav  {
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap;
