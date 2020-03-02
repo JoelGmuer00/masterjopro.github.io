@@ -1,6 +1,9 @@
-*{
-background-color: burlywood;
-}
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Arial, sans-serif;  
+     
+      color: black;
+  }
 
 
 nav{
@@ -8,11 +11,6 @@ nav{
 }
 
 
-
-.mainpage h2{
-
-    color: 
-}
 
 
 
