@@ -2,10 +2,13 @@
     box-sizing: border-box;
     font-family: Verdana, Arial, sans-serif;  
     color: black;
-    background-color: burlywood;
+    
     padding: 20px
   }
 
+  body{
+    background-color: burlywood;
+  }
 
  nav ul {
     display: flex; 
