@@ -10,32 +10,29 @@
     background-color: burlywood;
   }
 
- nav ul  {
-    display: flex; 
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    justify-content: none;     
-    list-style: none;
-    
-    
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
   }
-
-
-nav li a {
-    flex: 1;
-    z-index: 10;
-    text-decoration: none;
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
     text-align: center;
-    background-color: lightgreen;
-    border: 2px solid green;
-    border-radius: 2px;
-    padding: 10px 10px;
-    height: 50px;
-    margin-right: 1px;
-    margin-bottom: 2px;
-    min-width: 240px;
-    cursor: pointer;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ nav li a:hover {
+    background-color: #111;
+  }
       
     
 }
