@@ -34,10 +34,11 @@
     background-color:burlywood;
   }
 
-  .active {
-    background-color:burlywood;
+nav ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
-    
 }
 
 
