@@ -10,7 +10,7 @@
     background-color: burlywood;
   }
 
- ul.mainpage  {
+ .mainpage  {
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap;
