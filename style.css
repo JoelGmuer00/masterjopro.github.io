@@ -33,12 +33,11 @@
  nav li a:hover {
     background-color:burlywood;
   }
+
+ 
+
+
   
-nav ul a {
-    
-    position: sticky;
-    top: 0;
-  }
 
 
 
