@@ -15,7 +15,6 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    position: sticky;
     background-color: lightgray;
   }
   
@@ -34,7 +33,11 @@
  nav li a:hover {
     background-color:burlywood;
   }
-
+  ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
 }
 
 
