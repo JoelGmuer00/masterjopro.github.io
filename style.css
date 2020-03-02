@@ -30,7 +30,7 @@ li a {
     height:50px;              
     min-width: 240px;  
     cursor: pointer;  
-    border: 1px solid green;
+    border: 1px  outset green
     background-color: red
 
      
