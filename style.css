@@ -34,7 +34,7 @@
     background-color:burlywood;
   }
   
-nav ul {
+nav ul a {
     
     position: sticky;
     top: 0;
