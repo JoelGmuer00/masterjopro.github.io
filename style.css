@@ -30,6 +30,7 @@ nav li a {
     min-width: 240px;  
     cursor: pointer;  
     border: 2px outset;
+    border-radius: 5px;
     background-color: red
 
      
