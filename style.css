@@ -33,7 +33,10 @@
  nav li a:hover {
     background-color:burlywood;
   }
-      
+
+  .active {
+    background-color:burlywood;
+  }
     
 }
 
