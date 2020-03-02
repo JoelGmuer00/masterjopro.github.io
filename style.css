@@ -15,6 +15,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
+    position: sticky;
     background-color: lightgray;
   }
   
@@ -34,11 +35,6 @@
     background-color:burlywood;
   }
 
-nav ul {
-    position: sticky;
-    top: 0;
-    width: 100%;
-  }
 }
 
 
