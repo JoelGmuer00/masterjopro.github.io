@@ -17,7 +17,7 @@ text-align: center;
 margin-bottom: 0cm;
   }
 
-a:hover {
+a:hover .hyperlink {
 color: blue;
 }
 
