@@ -75,6 +75,12 @@ margin-top: 0cm;
 margin-bottom: 0cm;
 }
 
+.philosopherlist aside{
+
+background-color: lightgrey;
+float: left;
+}
+
 
 form {
   margin: 0 auto;
