@@ -36,10 +36,10 @@ h3 {
 
 
   span{
-   
+    line-height: 1px;
     background-color: lightgrey;
-   
-   
+    border-width: 2px;
+    padding: 1em 2em;
   }
 
   nav ul {
