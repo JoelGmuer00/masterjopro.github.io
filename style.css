@@ -36,10 +36,7 @@ h3 {
 
   ul {
     line-height: 1px;
-    display: block;
     background-color: lightgrey;
-    border: 2px;
-    border-right: 15px
   }
 
   nav ul {
