@@ -36,7 +36,7 @@ h3 {
 
   ul {
     line-height: 1px;
-    border-color: lightgrey;
+    background-color: lightgrey;
     border-width: 2px;
     padding: 1em 2em;
   }
