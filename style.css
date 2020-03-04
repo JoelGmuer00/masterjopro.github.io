@@ -36,6 +36,7 @@ h3 {
 
   ul {
     line-height: 1px;
+    display: block;
   }
 
   nav ul {
