@@ -37,7 +37,7 @@ h3 {
   ul {
     line-height: 1px;
     background-color: lightgrey;
-    box-sizing: content-box;
+    padding-right: 5px;
   }
 
   nav ul {
