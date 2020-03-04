@@ -90,7 +90,8 @@ background-color: white;
 }
 
 article {
-  background-color: blanchedalmond
+  background-color: blanchedalmond;
+  width: 10cm;
 }
 
 form {
