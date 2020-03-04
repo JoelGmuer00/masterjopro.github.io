@@ -81,6 +81,10 @@ background-color: lightgrey;
 float: right;
 }
 
+.result {
+  text-decoration: none;
+}
+
 
 form {
   margin: 0 auto;
