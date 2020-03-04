@@ -85,6 +85,9 @@ float: right;
 background-color: white;
 }
 
+.philosopherpic {
+  width:200px
+}
 
 form {
   margin: 0 auto;
