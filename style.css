@@ -89,6 +89,10 @@ background-color: white;
   width:200px
 }
 
+article {
+  background-color: blanchedalmond
+}
+
 form {
   margin: 0 auto;
   width: 400px;
