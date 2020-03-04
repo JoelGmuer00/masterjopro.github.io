@@ -43,6 +43,10 @@ h3 {
     float: left;
   }
 
+  table{
+    float: left;
+  }
+
   nav ul {
     list-style-type: none;
     margin: 0;
