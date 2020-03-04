@@ -80,6 +80,7 @@ margin-bottom: 0cm;
 background-color: lightgrey;
 float: right;
 position: sticky;
+top: 0;
 }
 
 .result {
