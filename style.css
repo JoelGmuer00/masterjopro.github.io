@@ -35,10 +35,10 @@ h3 {
 
 
   .questions {
-    background-color: rgb(179,57,81);
-  color: #fff;
-  text-decoration: none;
-  padding: 1em 2em;
+    line-height: 1px;
+    background-color: lightgrey;
+    border-width: 2px;
+    padding: 1em 2em;
   }
 
   nav ul {
