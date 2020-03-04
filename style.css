@@ -39,7 +39,7 @@ h3 {
     display: block;
     background-color: lightgrey;
     border: 2px;
-    border-width: 2px;
+    border-right: 15px
   }
 
   nav ul {
