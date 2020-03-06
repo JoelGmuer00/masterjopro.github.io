@@ -98,6 +98,12 @@ article {
 width: 500px
 }
 
+.clearfix::after{
+  content:"";
+  clear:both;
+  display:table;
+}
+
 form {
   margin: 0 auto;
   width: 400px;
