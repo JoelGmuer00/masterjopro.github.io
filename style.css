@@ -108,6 +108,10 @@ width: 500px
   float: right;
 }
 
+.merchpic{
+  width:200px;
+}
+
 form {
   margin: 0 auto;
   width: 400px;
