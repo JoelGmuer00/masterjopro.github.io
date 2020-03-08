@@ -108,6 +108,9 @@ width: 500px
   float: right;
 }
 
+.merchandise{
+  float: center;
+}
 .merchpic{
   width: 250px;
 }
