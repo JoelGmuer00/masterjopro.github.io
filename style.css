@@ -105,6 +105,10 @@ width: 500px
   display:table;
 }
 
+.partners{
+  float: left
+}
+
 form {
   margin: 0 auto;
   width: 400px;
