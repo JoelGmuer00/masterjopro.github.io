@@ -89,12 +89,14 @@ background-color: white;
   width: 100%;
 }
 
+.philosopherpic {
+  margin-right: 20%;
+}
+
 article {
   background-color: blanchedalmond;
   margin-right: 7cm;
 }
-
-
 
 .clearfix::after{
   content:"";
