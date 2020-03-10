@@ -128,13 +128,14 @@ background-color: white;
 }
 
 .merchandise{
+
+}
+
+.merchpic{
   display: block;
   margin-left: auto;
   margin-right: auto;
   
-}
-
-.merchpic{
   width: 250px;
 }
 
