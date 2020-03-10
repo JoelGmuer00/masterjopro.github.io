@@ -1,15 +1,18 @@
+
+/*definiert Grundregeln der Website*/
 * {
     box-sizing: border-box; 
     color: black;
-    
     padding: 10px
-  }
+}
 
-  body{
-    background-color: burlywood;
-    font-family: Helvetica, Arial, sans-serif; 
-  }
+/*definiert die generelle Hintergrundfarbe und Schritart im body Teil*/
+body{
+  background-color: burlywood;
+  font-family: Helvetica, Arial, sans-serif; 
+}
 
+/*auf alle Titel in dieser Klasse werden mit den folgenden Regeln angewendet*/
   .title{
 font-style: "Times New Roman", Times, serif; ;
 font-size: 40px;
@@ -18,62 +21,81 @@ margin-top: 0cm;
 margin-bottom: 0cm;
   }
 
-h3 a:hover  {
+/*h3 Titel, die mit einem Link versehrt sind (a) werden Blau, wenn man über sie hovert*/
+h3 a:hover{
 color: blue;
 }
 
-
+/*Regeln für h2 Titel*/
 h2 {
   margin-top: 0cm;
   margin-bottom: 0cm;
 }
 
+/*Regeln für h2 Titel*/
 h3 {
   margin-top: 0cm;
   margin-bottom: 0cm;
 }
 
-  .questions{
-    line-height: 1px;
-    background-color: lightgrey;
-    border-width: 2px;
-    padding: 1em 2em;
-    float: left;
-    margin: 0cm;
-  }
-
-  table{
-    float: right;
-  }
-
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: lightgray;
-  }
-  
-  nav li {
-    float: left;
-  }
-  
-  nav li a {
-    display: block;
-    color:black;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
- nav li a:hover {
-    background-color:burlywood;
-  }
-
+/*Regeln für Paragraphen*/
 p {
 margin-top: 0cm;
 margin-bottom: 0cm;
 }
+
+/*Grösse und Farbe eines Artikels*/
+article {
+  background-color: blanchedalmond;
+  margin-right: 7cm;
+}
+
+/*Alle Tabellen "schweben" Rechts*/
+table{
+  float: right;
+}
+
+/*Die folgenden 4 sections regeln die navigation bar. 
+"nav ul" und "nav li" beschreiben die Liste generell
+ und alle mit "a" versehrten regeln das verhalten der einzelnen Punkte*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgray;
+}
+  
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color:black;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+  
+nav li a:hover {
+  background-color:burlywood;
+}
+
+
+.questions{
+  line-height: 1px;
+  background-color: lightgrey;
+  border-width: 2px;
+  padding: 1em 2em;
+  float: left;
+  margin: 0cm;
+}
+
+
+
+
+
 
 .philosopherlist {
 
@@ -93,10 +115,7 @@ background-color: white;
   width: 50%;
 }
 
-article {
-  background-color: blanchedalmond;
-  margin-right: 7cm;
-}
+
 
 .clearfix::after{
   content:"";
