@@ -85,15 +85,16 @@ float: right;
 background-color: white;
 }
 
+.athens {
+  width: 100%;
+}
 
 article {
   background-color: blanchedalmond;
   margin-right: 7cm;
 }
 
-.Athens{
-width: 500px
-}
+
 
 .clearfix::after{
   content:"";
