@@ -57,9 +57,7 @@ table{
   
 }
 
-.blankspace{
-  background-color: blueviolet;
-}
+
 
 /*Die folgenden 4 sections regeln die navigation bar. 
 "nav ul" und "nav li" beschreiben die Liste generell
@@ -136,6 +134,10 @@ text-align: center;
   margin-right: auto;
   
   width: 250px;
+}
+
+.blankspace {
+  background-color: blueviolet;
 }
 
 form {
