@@ -54,6 +54,7 @@ article {
 table{
   float: right;
   border: 1px solid black;
+  margin: 1px solid black;
 }
 
 /*Die folgenden 4 sections regeln die navigation bar. 
