@@ -53,7 +53,7 @@ article {
 /*Alle Tabellen "schweben" Rechts*/
 table{
   float: right;
-  border-width: 5px;
+  border: 1px solid black;
 }
 
 /*Die folgenden 4 sections regeln die navigation bar. 
