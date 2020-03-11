@@ -53,6 +53,7 @@ article {
 /*Alle Tabellen "schweben" Rechts*/
 table{
   float: right;
+  border-width: 5px;
 }
 
 /*Die folgenden 4 sections regeln die navigation bar. 
@@ -82,7 +83,6 @@ nav li a:hover {
   background-color:burlywood;
 }
 
-
 .questions{
   line-height: 1px;
   background-color: lightgrey;
@@ -91,10 +91,6 @@ nav li a:hover {
   float: left;
   margin: 0cm;
 }
-
-
-
-
 
 
 .philosopherlist {
@@ -109,13 +105,11 @@ background-color: white;
 
 .athens {
   width: 100%;
-}
+}                       
 
 .philosopherpic{
   width: 50%;
 }
-
-
 
 .clearfix::after{
   content:"";
