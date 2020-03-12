@@ -123,7 +123,10 @@ background-color: white;
 
 .partners{
   float: right;
-  background-color: lightgray;
+}
+
+ul.partners{
+background-color: lightgray;
 }
 
 .merchandise{
