@@ -79,19 +79,21 @@ nav li a:hover {
   background-color:burlywood;
 }
 
-/*auf alle Titel in dieser Klasse werden mit den folgenden Regeln angewendet*/
-  .title{
+/*Der folgende Teil definiert das Aussehen all derjenigen Objekte, welche im HTML mit einer Klasse assoziiert werden*/
+
+  .title{         /*auf alle Titel in dieser Klasse werden mit den folgenden Regeln angewendet*/
 font-style: "Times New Roman", Times, serif; ;
 font-size: 40px;
 text-align: center;
 margin-top: 0cm;
 margin-bottom: 0cm;
   }
+
 .questions{
   line-height: 1px;
   background-color: lightgrey;
   border-width: 2px;
-  padding: 1em 2em;
+  padding: 1em 2em;  
   float: left;
   margin: 0cm;
 }
@@ -113,7 +115,7 @@ background-color: white;
   width: 50%;
 }
 
-.clearfix::after{
+.clearfix::after{   /*fixiert die Klasse "clearfix" nach dem vorherstehenden Objekt und nicht daneben*/
   content:"";
   clear:both;
   display:table;
@@ -135,17 +137,19 @@ text-align: center;
   width: 250px;
 }
 
+
+/*Hier wird das aussehen des "Form" definiert */
 form {
   margin: 0 auto;
-  width: 400px;
+  width: 400px; /*Breite*/
   padding: 1em;
   border: 1px solid #CCC;
-  border-radius: 1em;
+  border-radius: 1em; /*Rundungen der Ränder*/
 }
 
 ul {
   list-style: none;
-  padding: 0;
+  padding: 0; /*Keine Abstände zwischen einzelnen "Fragen"*/
   margin: 0;
 }
 
@@ -177,7 +181,7 @@ textarea {
   height: 5em;
 }
 
-.button {
+.button {             /*Knopf-Element*/
   padding-left: 90px; 
 }
 
