@@ -12,15 +12,6 @@ body{
   font-family: Helvetica, Arial, sans-serif; 
 }
 
-/*auf alle Titel in dieser Klasse werden mit den folgenden Regeln angewendet*/
-  .title{
-font-style: "Times New Roman", Times, serif; ;
-font-size: 40px;
-text-align: center;
-margin-top: 0cm;
-margin-bottom: 0cm;
-  }
-
 /*h3 Titel, die mit einem Link versehrt sind (a) werden Blau, wenn man über sie hovert*/
 h3 a:hover{
 color: blue;
@@ -88,6 +79,14 @@ nav li a:hover {
   background-color:burlywood;
 }
 
+/*auf alle Titel in dieser Klasse werden mit den folgenden Regeln angewendet*/
+  .title{
+font-style: "Times New Roman", Times, serif; ;
+font-size: 40px;
+text-align: center;
+margin-top: 0cm;
+margin-bottom: 0cm;
+  }
 .questions{
   line-height: 1px;
   background-color: lightgrey;
