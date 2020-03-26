@@ -52,6 +52,11 @@ table.tablephilosophers{
   
 }
 
+table.tablereviewers{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*Die folgenden 4 sections regeln die navigation bar. 
 "nav ul" und "nav li" beschreiben die Liste generell
  und alle mit "a" versehrten regeln das verhalten der einzelnen Punkte*/
