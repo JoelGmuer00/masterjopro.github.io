@@ -46,7 +46,7 @@ article {
 }
 
 /*Alle Tabellen "schweben" Rechts*/
-table{
+table.tablephilosophers{
   float: right;
   border: 10px solid blanchedalmond;
   
