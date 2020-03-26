@@ -45,7 +45,7 @@ article {
   margin-right: 7cm;
 }
 
-/*Alle Tabellen "schweben" Rechts*/
+/*Tabelle "schwebt" Rechts*/
 table.tablephilosophers{
   float: right;
   border: 10px solid blanchedalmond;
