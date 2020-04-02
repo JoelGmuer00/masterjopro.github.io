@@ -45,12 +45,6 @@ article {
   margin-right: 7cm;
 }
 
-/*Tabelle "schwebt" Rechts*/
-table.tablephilosophers{
-  float: right;
-  border: 10px solid blanchedalmond;
-  
-}
 
 table.tablereviewers{
   margin-left: auto;
@@ -108,6 +102,8 @@ margin-bottom: 0cm;
   margin: 0cm;
 }
 
+
+
 .philosopherlist {
 background-color: lightgrey;
 float: right;
@@ -120,11 +116,17 @@ background-color: white;
 .athens {
   
   width: 100%;
-}     
+}    
+
+/*Tabelle "schwebt" Rechts*/
+table.tablephilosophers{
+  float: right;
+  border: 10px solid blanchedalmond;
+}
 
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
-  .tablephilosophers {float: top}
+  table.tablephilosophers {position: absolute; right: 0px; top: 0px}
 }
 
                 
