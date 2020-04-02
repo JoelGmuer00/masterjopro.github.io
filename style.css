@@ -114,7 +114,6 @@ background-color: white;
 }
 
 .athens {
-  
   width: 100%;
 }    
 
@@ -127,10 +126,8 @@ table.tablephilosophers{
 
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
-  table.tablephilosophers {position: absolute; right: 30px; top: 230px; margin-left: 120%;} 
-}
-
-                
+  table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 50%;} 
+}            
 
 .philosopherpic{
   width: 50%;
