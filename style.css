@@ -122,12 +122,12 @@ background-color: white;
 table.tablephilosophers{
   float: right;
   border: 10px solid blanchedalmond;
-  margin-left: 100%;
+
 }
 
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
-  table.tablephilosophers {position: absolute; right: 30px; top: 230px}
+  table.tablephilosophers {position: absolute; right: 30px; top: 230px; margin-left: 120%;} 
 }
 
                 
