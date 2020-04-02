@@ -124,9 +124,15 @@ table.tablephilosophers{
 
 }
 
+.merchandise{
+text-align: center;
+}
+
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
   table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 45%;} 
+  .merchandise{ top: 300px;
+  }
 }            
 
 .philosopherpic{
@@ -147,9 +153,7 @@ ul.partners{
 background-color: lightgray;
 }
 
-.merchandise{
-text-align: center;
-}
+
 
 .merchpic{
   display: block;
