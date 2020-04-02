@@ -126,14 +126,16 @@ table.tablephilosophers{
 
 .merchandise{
 text-align: center;
-
 }
+
+
 
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
   table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 45%;} 
   .merchandise {float:left}
-  .video {position :absolute; right: 30px; top: 400px}
+  .video {position:absolute; right: 30px; top: 400px}
+  .ourpartners {position:absolute; top:100px}
 }            
 
 .philosopherpic{
