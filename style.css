@@ -131,9 +131,9 @@ text-align: center;
 @media only screen and (min-width: 1000px){
   .athens {width: 70%}
   table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 45%;} 
-  .m1 {left: 30px}
+  .m1 {float:left}
   .m2 {top: 0px}
-  .m3 {right:30px}
+  .m3 {float:right}
 }            
 
 .philosopherpic{
