@@ -117,8 +117,8 @@ float: right;
 background-color: white;
 }
 
-@media  only screen and (min-width: 300px){
-  .athens {width: 50%}
+@media  only screen and (min-width: 31000px){
+  .athens {width: 60%}
 }
 
 .athens {
