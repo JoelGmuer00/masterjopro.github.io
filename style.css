@@ -133,6 +133,7 @@ text-align: center;
   .athens {width: 70%}
   table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 45%;} 
   .merchandise {float:left}
+  .video {float:right}
 }            
 
 .philosopherpic{
