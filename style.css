@@ -130,7 +130,7 @@ text-align: center;
 
 
 
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 60%){
   .athens {width: 70%}
   table.tablephilosophers {position: absolute; right: 30px; top: 230px; width: 45%;} 
   .merchandise {float:left}
@@ -155,7 +155,6 @@ text-align: center;
 ul.partners{
 background-color: lightgray;
 }
-
 
 
 .merchpic{
