@@ -119,7 +119,7 @@ background-color: white;
 
 /*Tabelle "schwebt" Rechts*/
 table.tablephilosophers{
-  float: right;
+  float: inline-start;
   border: 10px solid blanchedalmond;
 
 }
