@@ -65,6 +65,7 @@ nav ul {
   padding: 0;
   overflow: hidden;
   background-color: lightgray;
+  cursor: crosshair
 }
   
 nav li {
@@ -78,10 +79,12 @@ nav li a {
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
+  cursor: crosshair
 }
   
 nav li a:hover {
   background-color:burlywood;
+  cursor: crosshair
 }
 
 /*Der folgende Teil definiert das Aussehen all derjenigen Objekte, welche im HTML mit einer Klasse assoziiert werden*/
