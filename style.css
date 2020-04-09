@@ -69,6 +69,7 @@ nav ul {
   
 nav li {
   float: left;
+  cursor: crosshair
 }
 
 nav li a {
@@ -106,7 +107,7 @@ margin-bottom: 0cm;
 .philosopherlist {
 background-color: lightgrey;
 float: inline-start;
-cursor: zoom-in;
+
 }
 
 .result {
