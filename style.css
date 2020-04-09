@@ -106,7 +106,7 @@ margin-bottom: 0cm;
 
 .philosopherlist {
 background-color: lightgrey;
-float: right;
+float:left;
 }
 
 .result {
@@ -134,7 +134,7 @@ text-align: center;
   .merchandise {float:left}
   .video {position:absolute; right: 30px; top: 400px}
   .ourpartners {position:absolute; right: 28px; top:125px}
-  .philosopherlist {float:left}
+  .philosopherlist {float:right}
 }            
 
 .philosopherpic{
