@@ -135,6 +135,7 @@ text-align: center;
   .video {position:absolute; right: 30px; top: 400px}
   .ourpartners {position:absolute; right: 28px; top:125px}
   .philosopherlist {float:right}
+  article {margin-right: 0cm}
 }            
 
 .philosopherpic{
