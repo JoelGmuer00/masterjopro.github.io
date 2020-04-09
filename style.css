@@ -98,7 +98,6 @@ margin-bottom: 0cm;
   }
 
 .questions{
-  line-height: 1px;
   background-color: lightgrey;
   border-width: 2px;
   padding: 1em 2em;  
@@ -125,6 +124,7 @@ background-color: white;
 table.tablephilosophers{
   float: inline-start;
   border: 10px solid blanchedalmond;
+  max-width: 100%
 }
 
 .merchandise{
