@@ -106,7 +106,7 @@ margin-bottom: 0cm;
 
 .philosopherlist {
 background-color: lightgrey;
-float:left;
+float: inline-start;
 }
 
 .result {
