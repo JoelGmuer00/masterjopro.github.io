@@ -106,7 +106,7 @@ margin-bottom: 0cm;
 .philosopherlist {
 background-color: lightgrey;
 float: inline-start;
-cursor: crosshair;
+cursor: move;
 }
 
 .result {
@@ -121,7 +121,6 @@ background-color: white;
 table.tablephilosophers{
   float: inline-start;
   border: 10px solid blanchedalmond;
-
 }
 
 .merchandise{
