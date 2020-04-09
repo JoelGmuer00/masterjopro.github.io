@@ -106,7 +106,7 @@ margin-bottom: 0cm;
 .philosopherlist {
 background-color: lightgrey;
 float: inline-start;
-cursor: move;
+cursor: pointer;
 }
 
 .result {
