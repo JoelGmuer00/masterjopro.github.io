@@ -82,7 +82,7 @@ nav li a {
   cursor: crosshair
 }
   
-nav li a:hover {
+nav li a:hover {  /*ändert die Pointer form*/
   background-color:burlywood;
   cursor: crosshair
 }
