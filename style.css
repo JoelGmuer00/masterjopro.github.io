@@ -158,6 +158,11 @@ ul.partners{
 background-color: lightgray;
 }
 
+merchpic.clearfix::after{
+  content:"";
+  clear:both;
+  display:table;
+}
 
 .merchpic{
   display: block;
